@@ -26,10 +26,6 @@ The goals / steps of this project are the following:
 [image9]: ./examples/barcharts.png "Bar Charts"
 
 ---
-### Writeup / README
-
-
-You're reading it! and here is a link to my [project code](https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb)
 
 ### Data Set Summary & Exploration
 
